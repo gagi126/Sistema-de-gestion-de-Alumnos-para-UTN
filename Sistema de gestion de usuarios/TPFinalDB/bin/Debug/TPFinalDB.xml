@@ -1,0 +1,231 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TPFinalDB
+</name>
+</assembly>
+<members>
+<member name="T:TPFinalDB.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:TPFinalDB.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:TPFinalDB.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.alumnosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.examenesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.materiasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.planificacionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.profesoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.tipo_docDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.titulosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.turnosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.alumnosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.examenesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.materiasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.planificacionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.profesoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.tipo_docRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.titulosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.turnosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.alumnosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.examenesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.materiasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.planificacionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.profesoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.tipo_docRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.titulosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSet.turnosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSetTableAdapters.alumnosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSetTableAdapters.examenesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSetTableAdapters.materiasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSetTableAdapters.planificacionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSetTableAdapters.profesoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSetTableAdapters.tipo_docTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSetTableAdapters.titulosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSetTableAdapters.turnosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TPFinalDB.BD_SISTEMA1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(TPFinalDB.BD_SISTEMA1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TPFinalDB.BD_SISTEMA1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(TPFinalDB.BD_SISTEMA1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TPFinalDB.BD_SISTEMA1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(TPFinalDB.BD_SISTEMA1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TPFinalDB.BD_SISTEMA1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TPFinalDB.BD_SISTEMA1DataSetTableAdapters.TableAdapterManager.UpdateAll(TPFinalDB.BD_SISTEMA1DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TPFinalDB.BD_SISTEMA1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

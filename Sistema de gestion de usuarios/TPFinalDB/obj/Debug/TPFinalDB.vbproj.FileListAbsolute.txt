@@ -1,0 +1,75 @@
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\bin\Debug\TPFinalDB.exe.config
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\bin\Debug\TPFinalDB.exe
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\bin\Debug\TPFinalDB.pdb
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\bin\Debug\TPFinalDB.xml
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.vbprojAssemblyReference.cache
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.Bienvenido.resources
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.Resources.resources
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.vbproj.GenerateResource.cache
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.vbproj.CoreCompileInputs.cache
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.exe
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.xml
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.pdb
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.ListadoAlumnos.resources
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.Alumnos.resources
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.BorrarSiNo.resources
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.ListadoProfesores.resources
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.ListadoTitulos.resources
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.Materias.resources
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.ListadoMaterias.resources
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.Clave.resources
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.Opciones.resources
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\obj\Debug\Interop.VSTOEE100.dll
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.vbproj.ResolveComReference.cache
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.Reportes.resources
+C:\Users\SENTEY-PC\source\repos\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.ConoSin.resources
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\bin\Debug\TPFinalDB.exe.config
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\bin\Debug\TPFinalDB.exe
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\bin\Debug\TPFinalDB.pdb
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\bin\Debug\TPFinalDB.xml
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.vbprojAssemblyReference.cache
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\Interop.VSTOEE100.dll
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.vbproj.ResolveComReference.cache
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.Alumnos.resources
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.Bienvenido.resources
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.BorrarSiNo.resources
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.Clave.resources
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.ConoSin.resources
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.ListadoAlumnos.resources
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.ListadoMaterias.resources
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.ListadoProfesores.resources
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.ListadoTitulos.resources
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.Materias.resources
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.Opciones.resources
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.Resources.resources
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.Reportes.resources
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.vbproj.GenerateResource.cache
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.vbproj.CoreCompileInputs.cache
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.exe
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.xml
+C:\Users\galbornozsalafia\OneDrive - frsn.utn.edu.ar\Diseño y Administracion de Base de Datos\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.pdb
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\bin\Debug\TPFinalDB.exe.config
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\bin\Debug\TPFinalDB.exe
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\bin\Debug\TPFinalDB.pdb
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\bin\Debug\TPFinalDB.xml
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.vbprojAssemblyReference.cache
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\Interop.VSTOEE100.dll
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.vbproj.ResolveComReference.cache
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.Alumnos.resources
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.Bienvenido.resources
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.BorrarSiNo.resources
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.Clave.resources
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.ConoSin.resources
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.ListadoAlumnos.resources
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.ListadoMaterias.resources
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.ListadoProfesores.resources
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.ListadoTitulos.resources
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.Materias.resources
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.Opciones.resources
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.Resources.resources
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.Reportes.resources
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.vbproj.GenerateResource.cache
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.vbproj.CoreCompileInputs.cache
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.exe
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.xml
+C:\Users\Sentey\Desktop\TPFinalAHORASI\TPFinalDB\TPFinalDB\obj\Debug\TPFinalDB.pdb
